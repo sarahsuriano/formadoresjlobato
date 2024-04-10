@@ -2,7 +2,9 @@
     margin:0;
 padding: 0;
 }
-
+header{ 
+   display: flex;
+}
 .cabecalho{
    background-color: #0B0B0D;
    font-size: 50px;
