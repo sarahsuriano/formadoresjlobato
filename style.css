@@ -1,1 +1,19 @@
+*{
+    margin:0;
+padding: 0;
+}
 
+.cabecalho{
+   background-color: #0B0B0D;
+   font-size: 50px;
+   color: aliceblue;
+   display: flex;
+}
+
+.estrelinha{
+   right:40% ;
+  width: 5px;
+}
+section{
+   background-color: #707EAF;
+}
