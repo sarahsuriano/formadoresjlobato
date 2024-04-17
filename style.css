@@ -6,7 +6,7 @@ header{
    display: flex;
 }
 .cabecalho{
-   background-color: #707EAF;
+   background-color: #141414;
    font-size: 50px;
    color: aliceblue;
    display: flex;
@@ -17,7 +17,7 @@ header{
   width: 5px;
 }
 section{
-   background-color: #707EAF;
+   background-color: #252525;
 }
 ul{
    text-align: right;
