@@ -19,6 +19,6 @@ header{
 section{
    background-color: #252525;
 }
-ul{
-   text-align: right;
+li{
+  right: 0;
 }
