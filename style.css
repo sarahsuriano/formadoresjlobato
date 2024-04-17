@@ -12,10 +12,7 @@ header{
    display: flex;
 }
 
-.estrelinha{
-   right:40% ;
-  width: 5px;
-}
+
 section{
    background-color: #252525;
 }
