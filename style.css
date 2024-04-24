@@ -23,7 +23,7 @@ ul {
    top: 0;
    right: 0;
    background-color: #0f0f0f; /* Cor de fundo opcional */
-   padding: 3px; /* Espaçamento interno opcional */
+   padding: 5px; /* Espaçamento interno opcional */
 }
 
 
@@ -31,7 +31,7 @@ ul {
    display: flex;
    justify-content: center;
    align-items: center;
-   height: 100vh;
+   height: 9%;
 }
 
 img {
